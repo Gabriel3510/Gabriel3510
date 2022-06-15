@@ -1,4 +1,6 @@
-## Ola sou Gabriel Lima!
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Gabriel+Lima;I'm+19+years+old;I+from+Franca,+SP;I+study+systems+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
 <div align="center">
   <a href="https://github.com/Gabriel3510">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel3510&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
