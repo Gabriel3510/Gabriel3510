@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Gabriel+Lima;I'm+19+years+old;I+from+Franca,+SP;I+study+systems+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Gabriel+Lima;I'm+20+years+old;I+from+Franca,+SP;I+study+systems+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/Gabriel3510">
